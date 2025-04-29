@@ -43,7 +43,8 @@ void printArray(int array[], int size) {
 
 ```
 ## Output:
-![437354798-aa8d3e98-4e70-4048-9f60-faf5ae636aac](https://github.com/user-attachments/assets/f435b5e3-989d-4900-95ba-bf943148d373)
+![image](https://github.com/user-attachments/assets/367f4108-11e7-4413-a568-468ac097cb4e)
+
 
 
 ## Result:
