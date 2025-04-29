@@ -54,7 +54,8 @@ int deQueue() {
 ```
 
 ## Output:
-![437313005-07242337-589a-4ff6-8f53-7c739f8b29fc](https://github.com/user-attachments/assets/26745ab6-81ed-4bd0-a9e8-e0a7a7596a8a)
+![image](https://github.com/user-attachments/assets/1cffac6b-bc10-431e-8ee1-116b763647e5)
+
 
 
 
